@@ -1,0 +1,44 @@
+a{
+	text-decoration: none;
+	text-transform: none;
+}
+a:hover{
+	text-decoration: none;
+}
+#users{
+	border-top: 2px solid #0bafee;;
+	margin-left: 1px;
+	background: #88cae3;
+}
+#converts{
+	border-top: 2px solid #0bafee;;
+	margin-left: 10px;
+	background: #88cae3;
+}
+#offerings{
+	border-top: 2px solid #0bafee;;
+	margin-left: 10px;
+	background: #88cae3;
+}
+#contributions{
+	border-top: 2px solid #0bafee;;
+	margin-left: 10px;
+	background: #88cae3;
+}
+.dash-footer{
+	    height: 1.5em;
+    background-color: #0bafee;
+    width: 122%;
+    margin-left: -0.91em;
+    color: #ffffff;
+    text-align: center;
+
+}
+#contributions .dash-footer{
+	height: 1.5em;
+    background-color: #0bafee;
+    width: 114%;
+    margin-left: -0.91em;
+    color: #ffffff;
+    text-align: center;
+}
